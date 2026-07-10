@@ -353,7 +353,7 @@ assets/login.png
 assets/register.png
 ```
 
-![Register](assets/Demo1.png)
+![Register](Demo1.png)
 
 ---
 
